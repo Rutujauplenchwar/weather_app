@@ -1,15 +1,9 @@
 # weather_app
 
-A new Flutter project.
+When the app starts, it will display the current location's weather details. There will be an icon for the city that, when clicked, opens a new screen where you can enter the name of a city and press the 'Get Weather' button to retrieve weather details for that city. Additionally, there will be a 'near_me' icon that, when pressed, will refresh and display the current location's weather details.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
